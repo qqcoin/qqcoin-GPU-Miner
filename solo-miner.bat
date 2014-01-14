@@ -1,0 +1,1 @@
+qqcoinminer -o 127.0.0.1:20112 -u USERNAME -p PASSWORD --scrypt --Nfmin 4 --Nfmax 30 --StartT 1387769316
